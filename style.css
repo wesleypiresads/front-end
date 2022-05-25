@@ -11,6 +11,10 @@ main {
     margin: 0 auto;
     width: 960px;
 }
+section {
+    width: 660px;
+    float: left;
+}
 article {
     background-color: aliceblue;
     padding: 20px;
@@ -25,7 +29,16 @@ article img {
     border: 1px solid #7E9F19;
     padding: 2px;
 }
+aside {
+    font-size: 14px;
+    width: 260px;
+    float: right;
+    color: white;
+}
 footer {
     text-align: center;
     color: white;
+}
+.clear {
+    clear: both;
 }
