@@ -6,6 +6,8 @@ body {
 h1 {
     text-align: center;
     color: white;
+    padding: 15px;
+    text-shadow: 2px 4px 2px rgba(0,0,0,0.6);
 }
 main {
     margin: 0 auto;
@@ -22,6 +24,7 @@ article {
     border-color: #CCC #999 #999 #CCC;
     margin-bottom: 20px;
     padding: 10px;
+    box-shadow: -3px -3px 3px #CCC;
 }
 article img {
     float: left;
