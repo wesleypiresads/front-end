@@ -1,5 +1,5 @@
 body {
-    background-color: #1E90FF;
+    background-color: #2BB15A;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
     line-height: 1.6;
 }
@@ -46,6 +46,7 @@ aside {
     color: white;
 }
 h3 {
+    font-size: 1.4em;
     color: #FFF;
     text-shadow: 2px 4px 2px rgba(0,0,0,0.3);
 }
@@ -54,6 +55,7 @@ li a {
     color: #FFF;
 }
 li a:hover {
+    background-color: #FFF;
     color: #000;
 }
 footer {
